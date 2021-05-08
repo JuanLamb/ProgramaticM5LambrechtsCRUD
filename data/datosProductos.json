@@ -1,0 +1,76 @@
+[
+    {
+        "id" : 1,
+        "nombre": "Edelweiss Mygale 2",
+        "descripcion": "Este arnes compacto y ligero es muy apreciado en escalada, recorridos por glaciares, carreras de aventura. Las perneras regulables permiten ajustar la talla segun la comodidad deseada o las capas de ropa y colocarse el arnes con los esquies o los crampones puestos. Las hebillas Doubleback tienen una forma determinada para facilitar su regulacion y ayudan a prevenir manipulaciones incorrectas. Fabricado en Francia. Perneras: 90cm Peso: 400g",
+        "precio": 6500,
+        "imagen": "edelweiss_mygale_2_1_imagen1.jpg",
+        "oferta": true,
+        "color": [ "Rojo", "Negro", "Azul"],
+        "talle": ["XL", "L", "M", "S"],
+        "descuento": 10 ,
+        "categoria": "Escalada",
+        "marca": "Edelweiss",
+        "temporada": false 
+    },
+    
+    { 
+        "id": 2 ,
+        "nombre": "campera Marmot",
+        "descripcion": "Campera de Snowboard de Mujer modelo Chesca Impermeabilidad 8.000 mm /H2O Respirabilidad 5.000 gr/m2/24 hs Relleno Cuerpo 100 grs. Relleno Capucha 80 grs. Capucha Desmontable con Visera Técnica ajustable. Puños Técnicos de Lycra. Bolsillo para Pase en manga. Bolsillos con Forro Térmico. Bolsillo para Antiparras. Bolsillo para Multimedia. Salida de Auricular. Trampa de Nieve Desmontable con Sistema de Fijación. Puños Regulables. Cintura Regulable. Cierres YKK. Tira Cierres Reflex. Forro Estampado. Corte Entallado.",
+        "precio": 7000 ,
+        "imagen": "campera2-frente.jpg" ,
+        "oferta": true,
+        "color": ["Negro", "Azul"],
+        "talle": ["L", "M", "S"],
+        "descuento": 5 ,
+        "categoria": "Campera",
+        "marca": "Acquavento",
+        "temporada": true 
+    },
+
+    {
+        "id": 3,
+        "nombre": "Mochila Coleman Atitlan 50 Lts Senderismo Travesia",
+        "descripcion": "Capacidad: 50 Lt medidas 42x21x72 Estructura interna de aluminio para mayor soporte, estabilidad y comodidad. Compatible con sistemas de hidratacion y acceso para hidratador. Incluye cobertor impermeable. Correas y almohadillas en espalda y caderas respirables y anatomicas. Correas para hombros y cinturon de caderas ajustables para mayor comodidad. Correas de compresion y correas de esternon ajustables. 6 D rings frontales para mosquetones y otros equipamentos. Incluye dos correas para portar bastones de trekking. Dos cierres frontales y bolsillos laterales externos de malla mesh. Cinturon en la cadera con cierre en bolsillo. Cierre en la parte inferior para poder acceder tambien a la mochila por la parte inferior. Compartimiento interno con separacion. Material: Poliester Dobby 420D y Diamond Ripstop 420D.",
+        "precio":14000,
+        "imagen":"IMG_4260.jpg",
+        "oferta":true,
+        "color": ["Verde", "Azul", "Negro"],
+        "talle": ["XL", "L"],
+        "descuento": 10,
+        "categoria": "Mochilas",
+        "marca": "Coleman",
+        "temporada": false
+    },
+
+    {
+        "id": 4,
+        "nombre": "Bota Plume Micro Gtx - Kayland",
+        "descripcion": "Calzado de caña media impermeable, con membrana Gore-tex. Para senderistas y trekkers exigentes, combina de manera excelente un gran confort y ligereza, siendo también fuerte y muy estable durante la marcha. Un calzado para 3 estaciones, su construcción ofrece excelentes prestaciones y funcionalidad en cuanto a horma, refuerzos laterales en punta y talón y adaptabilidad al terreno, incluso en terrenos de montaña de mediana dificultad. La combinación de cuero y tela brinda a la vez un gran confort, combinado con resistencia mecánica. Construcción impermeable, con membrana Gore-Tex® Extended Comfort, totalmente impermeable y transpirable, brinda al pie una agradable sensación de protección en todo tipo de uso. Tobillo anatómico acolchado, cordonaje de gran precisión de ajuste a la caña. Entresuela microporosa para una respuesta óptima a terrenos difíciles. Suela Vibram® Fourà con orejeta de 6 mm, excelente para trekking incluso difícil, de larga duración. Calzado de horma ancha.",
+        "precio":26400,
+        "imagen": "botas_senderismo_14.jpg",
+        "oferta":true ,
+        "color": ["Azul", "Negro"],
+        "talle": ["L", "M"] ,
+        "descuento":15,
+        "categoria":"Calzado" ,
+        "marca": "Kayland",
+        "temporada": true
+    },
+
+    {
+        "id": 5,
+        "nombre": "EDELWEISS TOURING 8.5MM 30M",
+        "descripcion": "Cuerda auxiliar para uso en doble, o simple para tránsito glaciar, travesías cortas o asegurar un paso complejo, sin usar de manera riesgosa un cordín, y sin la necesidad de cargar los 60m de una cuerda estándar. Ideal para uso en ascensos donde es necesario encordarse en tramos cortos, como Lanín, Tronador, Vuelta al Hielo, etc. Con 48 gramos por metro, esta cuerda ocupa poco espacio en tu mochila y ofrece la protección que te mereces. En los neveros y en los pasos comprometidos, durante una excursión y en esquí de montaña, sus propiedades garantizan tu seguridad. Diámetro de 8,5 mm, Fuerza de impacto: 5,8 kN, Número de caídas UIAA: 8, Alargamiento 5-80 kg: 9%, Peso: 48 g/m, Certificación: UIAA - CE EN 892, Uso recomendado: Grandes travesías, marcha en glaciar y recorridos por terreno nevado fácil. ",
+        "precio": 2000,
+        "imagen": "edelweiss_touring_8_5mm_30m_6_imagen1.jpg",
+        "oferta": false,
+        "color": ["Blanco", "Negro"],
+        "talle": null,
+        "descuento": 15,
+        "categoria": "Escalada",
+        "marca": "Edelweiss",
+        "temporada": false
+    }
+]
